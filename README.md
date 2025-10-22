@@ -22,12 +22,9 @@ While queues typically enforce a strict First-In First-Out order, this project a
 
 ## How to Use
 1. Clone the repository:
-'''bash
+```bash
 git clone https://github.com/ishanegi5/to-do-list-queue.git
-
-
-
-2.Navigate to the project directory:
+Navigate to the project directory:
 
 bash
 Copy code
@@ -52,6 +49,8 @@ delete() – Delete all tasks
 
 Main loop handles user input and program flow until exit.
 
+Screenshots
+(Add screenshots of adding, viewing, removing, and deleting tasks here)
 
 Key Learnings
 Implementation of queue data structure in Python
