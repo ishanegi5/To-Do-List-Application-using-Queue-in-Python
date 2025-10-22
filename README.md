@@ -22,7 +22,7 @@ While queues typically enforce a strict First-In First-Out order, this project a
 
 ## How to Use
 1. Clone the repository:
-
+'''bash
 git clone https://github.com/ishanegi5/to-do-list-queue.git
 
 
