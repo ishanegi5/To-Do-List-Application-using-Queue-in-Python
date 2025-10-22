@@ -22,21 +22,19 @@ While queues typically enforce a strict First-In First-Out order, this project a
 
 ## How to Use
 1. Clone the repository:
-```bash
+
 git clone https://github.com/ishanegi5/to-do-list-queue.git
-Navigate to the project directory:
 
-bash
-Copy code
+2.Navigate to the project directory:
 cd to-do-list-queue
-Run the Python file:
 
-bash
-Copy code
+3.Run the Python file:
 python todo_list.py
-Follow on-screen prompts to add, remove, view, or delete tasks.
+
+4.Follow on-screen prompts to add, remove, view, or delete tasks.
 
 Code Structure
+
 Queue class:
 
 enqueue() – Add a new task
@@ -49,10 +47,8 @@ delete() – Delete all tasks
 
 Main loop handles user input and program flow until exit.
 
-Screenshots
-(Add screenshots of adding, viewing, removing, and deleting tasks here)
-
 Key Learnings
+
 Implementation of queue data structure in Python
 
 Understanding object-oriented programming principles
@@ -62,18 +58,19 @@ Practical Python list operations, loops, and conditionals
 Flexible task management in a real-world scenario
 
 Deployment
+
 You can run this application locally using Python 3. No external libraries are required.
 
 Author
+
 Isha Negi
 
 GitHub: https://github.com/ishanegi5
 
 License
+
 This project is open-source and available under the MIT License.
 
-yaml
-Copy code
 
 ---
 
